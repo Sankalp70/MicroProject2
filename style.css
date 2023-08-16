@@ -1,0 +1,297 @@
+ body{
+overflow-x: hidden;
+ }
+
+* {
+
+padding: 0;
+margin: 0;
+}
+
+.helpicon{
+    position: fixed;
+    right: 8%;
+    top: 70%;
+    z-index: 111;   
+}
+
+
+#navbar {   
+    position: relative;
+    height: 100px;
+   background-color: #6F6AF7;
+   color: white;  
+   font-family: 'Delius Unicase', cursive;
+   }
+
+
+#logo {
+    margin-left: 9px;
+    font-size: 40px;
+     top: 4px
+
+}
+
+a {
+
+    margin-right: 120px;
+    top: 30px;
+    font-size: 19px;
+}
+
+#searchbox {
+    position: relative;
+    border-radius: 30px;
+    text-decoration: none;
+    top: 5px;
+    padding: 5px;
+   margin-top: 34px;
+    
+}
+
+#searchbar {
+    display: inline;
+    position: relative;
+    bottom: 12px;
+    background-color: black;
+    
+}
+
+
+#hamburger {
+  position: relative;
+  display: inline;
+  bottom: 18px;
+  left: 708px;
+  
+
+}
+
+#leftimg {
+     position: relative;
+    top: 90px;
+    margin-left: 30px;
+}
+
+#rightimg {
+     font-size: x-small;
+    position: relative;
+    width: 60px;
+    top: -428px;
+    margin-left: 500px;
+}
+
+.text {
+
+    position:relative;
+    color:white;
+    left: 521px;
+    top: -932px;
+    font-size: 25px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+#reactangle1 {
+
+    display: inline;
+    position: relative;
+    top: -400px;
+}
+
+#reactangle2 {
+
+display: inline;
+position: relative;
+bottom: 400px;
+right: 20px;
+}
+
+#reactangle3 { 
+
+position: relative;
+top: -612px;
+left: 749px;
+}
+
+#reactangle4 {
+
+position: relative;
+left: 1120px;
+top: -823px;
+}
+ 
+#text1{
+    position: relative;
+    top: -989px;
+    left: 46px;
+    color: white;
+    font-size: 40px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+
+#text3{
+    position: relative;
+    top: -1203px;
+    left: 816px;
+    font-size: 40px;
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+}
+#text4{
+    position: relative;
+    top: -1309px;
+    left: 1181px;
+    font-size: 40px;
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+}
+
+
+#text2 {
+
+    position: relative;
+    top: -1094px;
+    left: 437px;
+    font-size: 40px;
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+}
+
+
+
+
+#bluebox img {
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
+    top: -1103px;
+    width: 1423px;
+    height: 659px;
+    left: 56px;
+}
+
+
+#box3 {
+
+    position: relative;
+    top: -1745px;
+    left: 101px;
+}
+     
+    #box3text {
+        position: relative;
+        top: -1878px;
+        left: 209px;
+        font-size: 40px;
+        font-family: 'DM Sans', sans-serif;
+    }
+
+#box2 img{
+
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
+    top: -1753px;
+    width: 367px;
+    height: 123px;
+    left: 147px;
+    border-style:groove;
+    border-color:white;
+}
+
+      #box2text {
+
+        position: relative;
+        top: -1843px;
+        left: 209px;
+        font-size: 40px;
+        color: white;
+        font-family: 'DM Sans', sans-serif;
+
+
+      }    
+
+#box1 img{
+
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
+    top: -1717px;
+    width: 367px;
+    height: 123px;
+    left: 147px;
+    border-style:groove;
+    border-color:white;
+} 
+
+         #box1text {
+
+            position: relative;
+            top: -1807px;
+            left: 229px;
+            font-size: 40px;
+            color: white;    
+            font-family: 'DM Sans', sans-serif;
+         }
+
+#whitebox img{  
+max-width: 100%;
+max-height: 100%;
+position: relative;
+top: -2321px;
+width: 883px;
+height: 553px;
+left: 568px;
+}
+
+
+#box4 img{
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
+    top: -2429px;
+    left: 1208px;
+}
+
+
+    #box4text {
+        position: relative;
+        top: -2817px;
+        left: 1242px;
+        font-size: 40px;
+        color:white; 
+        font-family: 'Roboto', sans-serif;   
+
+    }
+
+#intro {
+
+    position: relative;
+    top: -2900px;
+    left: 608px;
+    font-size: 29px;
+    word-spacing: 10px;
+    line-height: 2.0;
+    font-family: 'Roboto', sans-serif;
+}
+
+#social {
+position: sticky;
+top: 50%;
+transform: translateY(-50);
+z-index: 100;
+}
+
+#social img {
+    width: 50px;
+    height: 50px;
+}
+  
+#social {
+    position:fixed;
+    right: 0;
+    top: 40%;
+    transform: translateY(-30);
+    z-index: 111;
+    }
